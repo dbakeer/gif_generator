@@ -1,0 +1,20 @@
+* {
+  text-align: center;
+}
+
+#gif {
+  display: inline-table;
+  position: relative;
+  float: right;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  margin: 5px 5px 5px 5px;
+  border: black 1px solid;
+}
+
+button {
+  font: 18px;
+}
